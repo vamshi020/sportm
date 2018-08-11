@@ -1,0 +1,29 @@
+body{
+	background: #eee;
+}
+	#frm{
+		border: solid gray 1px;
+		border-color: purple;
+		width: 150px;
+		border-radius: 5px;
+		margin: 100px auto;
+		background-color:lightgray ;
+		padding: 50px;
+       }
+	.btn{
+    letter-spacing: 0;
+}
+#main {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: gray;
+    border-radius: 0 0 7px 5px;
+}
+
+
+button{
+	padding: 10px;
+	background-color: green;
+	border-radius: 0 0 5px 5px;
+}
